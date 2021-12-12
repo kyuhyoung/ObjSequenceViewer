@@ -27,3 +27,7 @@ Tested on Ubuntu 20.04.
 - Toggle solid/wireframe view: F button
 
 (If keyboard controls do not work, check capitalization.)
+
+<b>Output Recording: </b>
+Use a screen capturing program suck as vokoscreen
+(https://github.com/vkohaupt/vokoscreenNG)
