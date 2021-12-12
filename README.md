@@ -15,7 +15,7 @@ A minimal viewer for 3D animations, stored as sequences of individual .obj mesh 
 
 After the program starts, you can specify the directory that the sequence of .obj meshes resides in (files need to be named in a sequential manner).
 
-All .obj files need to be loaded in RAM before the animation starts, which can be a time consuming process.
+All .obj meshes need to be loaded in RAM before the animation starts, which can be a time consuming process.
 
 Tested on Ubuntu 20.04.
 
