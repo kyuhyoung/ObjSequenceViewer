@@ -151,17 +151,15 @@ while run:
     glLoadIdentity()
 
     # apply the movment
-    if event.type == pygame.MOUSEWHEEL:
-
-        if event.y == 1:
-            glTranslatef(0,0,0.005)
-        elif event.y == -1:
-            glTranslatef(0,0,-0.005)
-    if keypress[pygame.K_l]:
+    if keypress[pygame.K_w]:
+        glTranslatef(0,0,0.005)
+    if keypress[pygame.K_s]:
+        glTranslatef(0,0,-0.005)
+    if keypress[pygame.K_d]:
         
         rotateModels+=0.2
     
-    if keypress[pygame.K_j]:
+    if keypress[pygame.K_a]:
         rotateModels-=0.2
 
 
