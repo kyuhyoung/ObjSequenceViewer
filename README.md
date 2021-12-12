@@ -5,7 +5,7 @@ A minimal viewer for 3D animations, stored as sequences of individual .obj mesh 
 <img src="sample_videos/solid.gif" width="200"><img src="sample_videos/wireframe.gif" width="200">
 </p>
 
-<b> Installation: </b>
+<b> Installation: </b>consecutive
 
  - pip3 install -r requirements.txt
 
@@ -13,7 +13,7 @@ A minimal viewer for 3D animations, stored as sequences of individual .obj mesh 
 
  - python3 ObjSequenceViewer_v0.5.py
 
-After the program starts, you will be asked to specify the directory that the sequence of .obj meshes resides in (files need to be named in a sequential manner).
+After the program starts, you will be asked to specify the directory that the sequence of .obj meshes resides in (files need to be named in a consecutive manner).
 
 All .obj meshes need to be loaded in RAM before the animation starts, which can be a time consuming process.
 
