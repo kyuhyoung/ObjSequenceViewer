@@ -14,7 +14,8 @@ A minimal viewer for 3D temporal mesh sequences, stored as collections of indivi
  - python3 ObjSequenceViewer_v0.5.py
 
 After the program starts, you can specify the directory that the sequence of .obj meshes resides in (files need to be named in a sequential manner).
-All .obj files need to be loaded in RAM before the animation starts.
+
+All .obj files need to be loaded in RAM before the animation starts, which can be a time consuming process.
 
 Tested on Ubuntu 20.04.
 
