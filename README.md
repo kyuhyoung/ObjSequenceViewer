@@ -34,3 +34,4 @@ Tested on Ubuntu 20.04.
 <b>TODO: </b>
  - Add sliders for controling animation speed
  - Add texture support
+ - Control background color
