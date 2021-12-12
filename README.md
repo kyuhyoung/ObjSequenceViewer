@@ -19,15 +19,13 @@ All .obj meshes need to be loaded in RAM before the animation starts, which can 
 
 Tested on Ubuntu 20.04.
 
-<b> KeyBoard and Mouse Controls: </b>
+<b> KeyBoard Controls: </b>
 
-- Rotate left: J button
-- Rotate right: L button
-- Zoom in: Mouse scroll up
-- Zoom out: Mouse scroll down
+- Rotate left: A button
+- Rotate right: D button
+- Zoom in: W button
+- Zoom out: S button
 - Toggle solid/wireframe view: F button
-
-(If keyboard controls do not work, check capitalization.)
 
 <b>Output Recording: </b>
 
