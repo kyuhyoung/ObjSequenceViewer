@@ -1,2 +1,2 @@
 # ObjSequenceViewer
-A minimalistic viewer for .obj model sequences
+A minimal viewer for .obj model sequences
