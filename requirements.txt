@@ -1,0 +1,4 @@
+pygame
+easygui
+pyopengl
+pyglet
