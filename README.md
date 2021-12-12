@@ -1,5 +1,5 @@
 # ObjSequenceViewer V0.5
-A minimal viewer for 3D animations, stored as sequences of individual .obj mesh files.
+A minimal viewer for 3D animations, stored as stop-motion sequences of individual .obj mesh files.
 
 <p align="center">
 <img src="sample_videos/solid.gif" width="200"><img src="sample_videos/wireframe.gif" width="200">
