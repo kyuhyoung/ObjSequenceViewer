@@ -20,8 +20,8 @@ Tested on Ubuntu 20.04.
 
 <b> KeyBoard and Mouse Controls: </b>
 
-- Rotate right: J button
-- Rotate left: L button
+- Rotate left: J button
+- Rotate right: L button
 - Zoom in: Mouse scroll up
 - Zoom out: Mouse scroll down
 - Toggle solid/wireframe view: F button
