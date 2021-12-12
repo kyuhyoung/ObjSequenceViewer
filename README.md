@@ -30,3 +30,7 @@ Tested on Ubuntu 20.04.
 <b>Output Recording: </b>
 
  - Use a screen capturing program (e.g., vokoscreen - https://github.com/vkohaupt/vokoscreenNG)
+
+<b>TODO: </b>
+ - Add sliders for controling animation speed
+ - Add texture support
