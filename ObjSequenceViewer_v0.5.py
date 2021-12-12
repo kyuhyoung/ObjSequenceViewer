@@ -70,6 +70,7 @@ pygame.mouse.set_pos(displayCenter)
 path = easygui.diropenbox()
 path+=os.sep
 model_files=os.listdir(path)
+model_files.sort()
 max_num_of_models=len(model_files)
 
 scenes=[]
