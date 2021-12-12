@@ -5,8 +5,9 @@ A minimal viewer for 3D temporal mesh sequences, stored as collections of indivi
 <img src="sample_videos/solid.gif" width="200"><img src="sample_videos/wireframe.gif" width="200">
 </p>
 
-Installation:
-pip3 install -r requirements.txt
+<b> Installation: </b>
+
+ - pip3 install -r requirements.txt
 
 <b> Execution: </b>
 
