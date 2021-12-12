@@ -5,7 +5,7 @@ A minimal viewer for 3D animations, stored as stop-motion sequences of individua
 <img src="sample_videos/solid.gif" width="200"><img src="sample_videos/wireframe.gif" width="200">
 </p>
 
-<b> Installation: </b>consecutive
+<b> Installation: </b>
 
  - pip3 install -r requirements.txt
 
