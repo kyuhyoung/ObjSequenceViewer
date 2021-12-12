@@ -22,8 +22,8 @@ Tested on Ubuntu 20.04.
 
 - Rotate right: J button
 - Rotate left: L button
-- Zoom in: Scroll Up
-- Zoom out: Scroll Down
+- Zoom in: Mouse scroll up
+- Zoom out: Mouse scroll down
 - Toggle solid/wireframe views: F button
 
 (If keyboard controls do not work, check capitalization.)
