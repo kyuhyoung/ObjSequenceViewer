@@ -1,5 +1,5 @@
 # ObjSequenceViewer
-A minimal viewer for .obj model sequences
+A minimal viewer for model sequences stored as collections of individual .obj files
 
 <img src="sample_videos/solid.gif" width="300">
 <img src="sample_videos/wireframe.gif" width="300">
