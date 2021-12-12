@@ -35,3 +35,4 @@ Tested on Ubuntu 20.04.
  - Add sliders for controling animation speed
  - Add texture support
  - Control background color
+ - Reduce loading time through parallelization
