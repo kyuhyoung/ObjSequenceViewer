@@ -152,9 +152,9 @@ while run:
 
     # apply the movment
     if keypress[pygame.K_w]:
-        glTranslatef(0,0,0.005)
+        glTranslatef(0,0,0.05)
     if keypress[pygame.K_s]:
-        glTranslatef(0,0,-0.005)
+        glTranslatef(0,0,-0.05)
     if keypress[pygame.K_d]:
         
         rotateModels+=0.2
@@ -191,7 +191,7 @@ while run:
 
     if model_index == max_num_of_models:
         model_index=0
-    if (pygame.time.get_ticks()-initTime) % 50 == 0:
+    if (pygame.time.get_ticks()-initTime) % 5 == 0:
         #pastTime=0
         model_index+=1
         print(model_index)
