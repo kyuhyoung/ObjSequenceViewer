@@ -2,3 +2,4 @@ pygame
 easygui
 pyopengl
 pyglet
+pywavefront
