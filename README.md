@@ -17,7 +17,7 @@ After the program starts, you will be asked to specify the directory that the se
 
 All .obj meshes need to be loaded in RAM before the animation starts, which can be a time consuming process.
 
-Tested on Ubuntu 20.04 and Windows 10.
+Tested on Ubuntu 20.04.
 
 <b> KeyBoard Controls: </b>
 
